@@ -4,3 +4,11 @@ __pycache__/
 .idea/
 *.iml
 .DS_Store
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+pythonenv*
